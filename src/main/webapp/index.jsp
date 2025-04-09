@@ -17,7 +17,7 @@
         /* Header Styles */
         header {
             background: linear-gradient(135deg, #1f2937, #4b5563);
-            color: white;
+            color: green;
             padding: 40px 20px;
             text-align: center;
         }
@@ -26,7 +26,7 @@
             margin: 0;
         }
         header p {
-            font-size: 1.2em;
+            font-size: 3.2em;
             margin: 10px 0 0;
             opacity: 0.9;
         }
@@ -166,7 +166,7 @@
 </head>
 <body>
     <header>
-        <h1>Anil kumar - DevOps Engineer</h1>
+        <h1>Anil kumar srimanthula - DevOps Engineer</h1>
         <p>Building Automation & Scalable Solutions for Modern Applications</p>
         <nav>
             <a href="#about">About</a>
